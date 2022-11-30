@@ -1,10 +1,6 @@
 <br />
 <div align="center">
-
-  <h2 align="center">Proyecto Individual</h2>
-  <hr>
   <h3 align="center">Modelamiento y normalización de BD en Postgres</h3>
-
   <p align="center">
     MODULO 05
     <hr/>
